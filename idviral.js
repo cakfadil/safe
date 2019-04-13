@@ -28,6 +28,6 @@ function a_to_fa()
 {var a_to_vf=new Array();protected_links=protected_links.replace(" ","");a_to_vf=protected_links.split(",");return a_to_vf;}
 </script>
 <script type="text/javascript">
-protected_links = "facebook.com";
+protected_links = "idanime.net";
 auto_safelink();
 </script>
